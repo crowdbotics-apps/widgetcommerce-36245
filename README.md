@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-add-payment-method](screens/add-payment-method)
 - [screen-appointment-list-view](screens/appointment-list)
 - [react-native-maps](modules/maps)
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
