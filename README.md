@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-list-view](screens/appointment-list)
 - [react-native-maps](modules/maps)
 - [terms-and-conditions]()
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
