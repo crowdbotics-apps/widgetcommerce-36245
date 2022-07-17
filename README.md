@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [screen-payment-subscriptions](screens/payment-subscription)
 - [screen-add-payment-method](screens/add-payment-method)
+- [screen-appointment-list-view](screens/appointment-list)
 
 # Getting started: Frontend
 
